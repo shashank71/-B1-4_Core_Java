@@ -2,7 +2,7 @@ package com.tns.package3;
 
 public class SBI {
 	public int balance;
-	SBI(int bal)
+	public SBI(int bal)
 	{
 		balance=bal;
 	}
