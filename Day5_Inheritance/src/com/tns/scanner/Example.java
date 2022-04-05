@@ -14,6 +14,7 @@ public class Example {
 		{
 			System.out.println("cannot donate");
 		}
+		s.close();
 	}
 
 }
